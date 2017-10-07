@@ -184,11 +184,6 @@ namespace Task
         private int countGas;
         private int totalRevenues = 0;
 
-        private void ColorMenuItem_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void ButtonCalc_Click(object sender, EventArgs e)
         {
             //Oil

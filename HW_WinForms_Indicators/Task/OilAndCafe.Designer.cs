@@ -80,8 +80,6 @@
             this.ruMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kzMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.timer = new System.Windows.Forms.Timer(this.components);
-            this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.colorMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.groupBoxGasStation.SuspendLayout();
             this.groupBoxGasToPay.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -89,7 +87,6 @@
             this.groupBoxCafeToPay.SuspendLayout();
             this.groupBox1.SuspendLayout();
             this.statusStrip.SuspendLayout();
-            this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // groupBoxGasStation
@@ -647,45 +644,27 @@
             // engMenuItem
             // 
             this.engMenuItem.Name = "engMenuItem";
-            this.engMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.engMenuItem.Size = new System.Drawing.Size(97, 22);
             this.engMenuItem.Text = "ENG";
             this.engMenuItem.Click += new System.EventHandler(this.EngMenuItem_Click);
             // 
             // ruMenuItem
             // 
             this.ruMenuItem.Name = "ruMenuItem";
-            this.ruMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.ruMenuItem.Size = new System.Drawing.Size(97, 22);
             this.ruMenuItem.Text = "RU";
             this.ruMenuItem.Click += new System.EventHandler(this.RuMenuItem_Click);
             // 
             // kzMenuItem
             // 
             this.kzMenuItem.Name = "kzMenuItem";
-            this.kzMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.kzMenuItem.Size = new System.Drawing.Size(97, 22);
             this.kzMenuItem.Text = "KZ";
             this.kzMenuItem.Click += new System.EventHandler(this.KzMenuItem_Click);
             // 
             // timer
             // 
             this.timer.Tick += new System.EventHandler(this.Timer_Tick);
-            // 
-            // menuStrip1
-            // 
-            this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.colorMenuItem});
-            this.menuStrip1.Location = new System.Drawing.Point(0, 0);
-            this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.RenderMode = System.Windows.Forms.ToolStripRenderMode.Professional;
-            this.menuStrip1.Size = new System.Drawing.Size(529, 24);
-            this.menuStrip1.TabIndex = 6;
-            this.menuStrip1.Text = "menuStrip1";
-            // 
-            // colorMenuItem
-            // 
-            this.colorMenuItem.Name = "colorMenuItem";
-            this.colorMenuItem.Size = new System.Drawing.Size(45, 20);
-            this.colorMenuItem.Text = "Цвет";
-            this.colorMenuItem.Click += new System.EventHandler(this.ColorMenuItem_Click);
             // 
             // OilAndCafe
             // 
@@ -694,13 +673,11 @@
             this.BackColor = System.Drawing.SystemColors.ControlDarkDark;
             this.ClientSize = new System.Drawing.Size(529, 461);
             this.Controls.Add(this.statusStrip);
-            this.Controls.Add(this.menuStrip1);
             this.Controls.Add(this.totalRevenuesTextBox);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.groupBoxCafe);
             this.Controls.Add(this.groupBoxGasStation);
-            this.MainMenuStrip = this.menuStrip1;
             this.MaximumSize = new System.Drawing.Size(545, 500);
             this.MinimumSize = new System.Drawing.Size(545, 500);
             this.Name = "OilAndCafe";
@@ -719,8 +696,6 @@
             this.groupBox1.PerformLayout();
             this.statusStrip.ResumeLayout(false);
             this.statusStrip.PerformLayout();
-            this.menuStrip1.ResumeLayout(false);
-            this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -778,8 +753,6 @@
         private System.Windows.Forms.ToolStripMenuItem engMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ruMenuItem;
         private System.Windows.Forms.ToolStripMenuItem kzMenuItem;
-        private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem colorMenuItem;
     }
 }
 
