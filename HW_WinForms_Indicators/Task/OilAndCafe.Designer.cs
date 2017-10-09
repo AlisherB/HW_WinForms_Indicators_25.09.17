@@ -80,6 +80,7 @@
             this.ruMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.kzMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.timer = new System.Windows.Forms.Timer(this.components);
+            this.notifyIcon = new System.Windows.Forms.NotifyIcon(this.components);
             this.groupBoxGasStation.SuspendLayout();
             this.groupBoxGasToPay.SuspendLayout();
             this.panel1.SuspendLayout();
@@ -666,6 +667,13 @@
             // 
             this.timer.Tick += new System.EventHandler(this.Timer_Tick);
             // 
+            // notifyIcon
+            // 
+            this.notifyIcon.Icon = ((System.Drawing.Icon)(resources.GetObject("notifyIcon.Icon")));
+            this.notifyIcon.Text = "notifyIcon";
+            this.notifyIcon.Visible = true;
+            this.notifyIcon.DoubleClick += new System.EventHandler(this.NotifyIcon_DoubleClick);
+            // 
             // OilAndCafe
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -682,6 +690,7 @@
             this.MinimumSize = new System.Drawing.Size(545, 500);
             this.Name = "OilAndCafe";
             this.Text = "BestOil";
+            this.Resize += new System.EventHandler(this.OilAndCafe_Resize);
             this.groupBoxGasStation.ResumeLayout(false);
             this.groupBoxGasStation.PerformLayout();
             this.groupBoxGasToPay.ResumeLayout(false);
@@ -753,6 +762,7 @@
         private System.Windows.Forms.ToolStripMenuItem engMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ruMenuItem;
         private System.Windows.Forms.ToolStripMenuItem kzMenuItem;
+        private System.Windows.Forms.NotifyIcon notifyIcon;
     }
 }
 

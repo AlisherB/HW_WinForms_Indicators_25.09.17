@@ -596,7 +596,86 @@
   <metadata name="timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>133, 17</value>
   </metadata>
+  <metadata name="notifyIcon.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>213, 17</value>
+  </metadata>
+  <data name="notifyIcon.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAABILAAASCwAAAAAAAAAA
+        AAAzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zIyMmAyMjIAMjIyADIyMgAyMjIAMjIyADIy
+        MgAyMjIAMjIyADMzM94zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMzQTMzMwAzMzMAMzMzADMz
+        MwAzMzMAMzMzADMzMwAzMzMAMDAwJTIyMnUyMjLAMzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP3MzMzeDMzM1AAAAABAAAAAAAA
+        AAEyMjI4MzMzdDIyMlYzMzMPMzMzADMzMwAzMzMAMzMzADMzM4gzMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/AzMzMAMzMzADMz
+        MwAzMzMFNDQ0vDMzM/8zMzP/MzMz/zMzM+41NTU1NTU1ADMzMwAzMzMAMzMziDMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz8DMz
+        MwAzMzMAMzMzADQ0NIAzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM9szMzMKMzMzADMzMwAzMzOIMzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzPwMzMzADMzMwAzMzMAMzMz7jMzM/80NDTLMzMzFDMzM3MzMzP/MzMz/zMzM1AyMjIAMjIyADMz
+        M4gzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/AzMzMAMzMzAC0tLREzMzP/MzMz/zMzM2gzMzMAQEBACDMzM/4zMzP/MzMzczQ0
+        NAA0NDQAMzMziDMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz8DMzMwAzMzMANTU1MDMzM/8zMzP/NDQ0SjQ0NAA0NDQAMzMz5zMz
+        M/8yMjKTMzMzADMzMwAzMzOIMzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzPwMzMzADMzMwA0NDROMzMz/zMzM/81NTUrNTU1ADU1
+        NQAzMzPIMzMz/zQ0NLIzMzMAMzMzADMzM4gzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/AzMzMAMzMzADQ0NGwzMzP/MzMz/ysr
+        KwwrKysAKysrADMzM6kzMzP/MzMz0jMzMwAzMzMAMzMziDMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz8DMzMwAzMzMANDQ0ijMz
+        M/8zMzPuMzMzADMzMwAzMzMAMjIyiTMzM/8zMzPyMzMzADMzMwAzMzOIMzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzPwMzMzADMz
+        MwAzMzOpMzMz/zMzM84zMzMAMzMzADMzMwAzMzN4MzMz/zMzM/8zMzMAMzMzADMzM4gzMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/AzMzMAMzMzADMzM80zMzP/MzMzrjMzMwAzMzMAMzMzADMzM3gzMzP/MzMz/zMzMwAzMzMAMzMziDMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz9zQ0NIAzMzOzMzMz/zMzM/8zMzOCMzMzADMzMwAzMzMAMzMzeDMzM/8zMzP/MzMzADMz
+        MwAzMzOIMzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz3zMzMxQzMzMAMzMzADMzMwAzMzN4MzMz/zMz
+        M/8zMzMAMzMzADMzM4gzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP5MzMz3TMzM5wxMTEfMTExADExMQAxMTEAMTExADMz
+        M70zMzP/MzMz/zMzMwAzMzMAMzMziDMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz8DMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMz
+        MwAyMjKOMzMz/zMzM/8zMzP/MzMzADMzMwAzMzOIMzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzPwMzMzADMzMwAzMzMAMzMzADMz
+        MwAzMzMANDQ0lDMzM/8zMzP/MzMz/zMzM/8zMzMAMzMzADMzM4gzMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/AzMzMAMzMzADMz
+        MwAzMzMAMzMzADMzM2ozMzP/MzMz/zMzM/8zMzP/MzMz/zMzMwAzMzMAMzMziDMzM/8zMzP/MzMz7TIy
+        MrEzMzOwMzMzsDMzM7AzMzOwMzMzsDMzM7AzMzOwMzMzsDMzM7AzMzOwMzMz0TMzM/8zMzP/MzMz8DMz
+        MwAzMzMAMzMzADMzMwAzMzMAMzMz4DMzM/8zMzP/MzMz/zMzM/8zMzP+NDQ0ADQ0NAAzMzOIMzMz/zMz
+        M/0xMTEfMTExADExMQAxMTEAMTExADExMQAxMTEAMTExADExMQAxMTEAMTExADExMQAxMTEAMzMzuTMz
+        M/8zMzPwMzMzADMzMwAzMzMAMzMzAC0tLREzMzP/MzMz/zMzM/8zMzP/MzMz/zMzM8g0NDQANDQ0ADMz
+        M4gzMzP/MzMz8DMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMz
+        MwAzMzOIMzMz/zMzM/AzMzMAMzMzADMzMwAzMzMANTU1GDMzM/8zMzP/MzMz/zMzM/8zMzP/NDQ0UwAA
+        AAAAAAAAMzMziDMzM/8zMzPwMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMz
+        MwAzMzMAMzMzADMzM4gzMzP/MzMz8DMzMwAzMzMAMzMzADMzMwA1NTUYMzMz/zMzM/8zMzP/MzMz/zQ0
+        NI80NDQAAAAAAAAAAAAzMzOIMzMz/zMzM/AzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMz
+        MwAzMzMAMzMzADMzMwAzMzMAMzMziDMzM/8zMzPwMzMzADMzMwAzMzMAMzMzADo6Oh8zMzP/MzMz/zMz
+        M/8yMjKdAAAAAQAAAAAzMzMAMzMzADMzM4gzMzP/MzMz8DMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMz
+        MwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzOIMzMz/zMzM/AzMzMAMzMzADMzMwBAQEAENDQ0tzMz
+        M/8zMzP/MzMzqQAAAAIAAAAAAAAAADk5OQA5OTkAMzMziDMzM/8zMzPwMzMzADMzMwAzMzMAMzMzADMz
+        MwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMzM4gzMzP/MzMz8DMzMwAzMzMAAAAAAjMz
+        M6UzMzP/MzMz/zMzM7UzMzMFMzMzADMzMwAzMzMAOzs7ADs7OwAzMzOIMzMz/zMzM/AzMzMAMzMzADMz
+        MwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMziDMzM/8zMzPwMzMzADMz
+        MwAzMzOWMzMz/zMzM/8yMjLAOTk5CTk5OQA5OTkAOTk5ADk5OQA5OTkAOTk5ADMzM4gzMzP/MzMz8DMz
+        MwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzMAMzMzADMzMwAzMzOIMzMz/zMz
+        M/AzMzMANDQ0ezMzM/8zMzP/MjIyyjs7Ow07OzsAOzs7ADs7OwA7OzsAOzs7AC0tLQAtLS0AMzMzfDMz
+        M/8zMzP5Nzc3Djc3NwA3NzcANzc3ADc3NwA3NzcANzc3ADc3NwA3NzcANzc3ADc3NwA3NzcANzc3ADMz
+        M6EzMzP/MzMz4jMzMwAzMzO1MzMz/zMzM9M5OTkSOTk5ADk5OQA5OTkAOTk5ADk5OQA5OTkANDQ0ADQ0
+        NAAyMjJIMzMz/zMzM/80NDTBMzMzeTMzM3gzMzN4MzMzeDMzM3gzMzN4MzMzeDMzM3gzMzN4MzMzeDMz
+        M3gzMzOWMzMz+TMzM/8zMzOqMzMzADc3NxwzMzNpLS0tES0tLQAtLS0ALS0tAC0tLQAtLS0ALS0tAC0t
+        LQA1NTUANTU1AAAAAAE0NDS8MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz9TQ0NCc0NDQANDQ0ADQ0NAA0NDQANDQ0ADQ0NAA0NDQANDQ0ADQ0
+        NAA0NDQANDQ0AAAAAAAAAAAAAAAAADk5OQkzMzOMMzMz3zMzM/8zMzP/MzMz/zMzM/8zMzP/MzMz/zMz
+        M/8zMzP/MzMz/zMzM/8zMzP/MzMz8DMzM7g1NTUrNTU1ADU1NQA1NTUANTU1ADU1NQA1NTUANTU1ADU1
+        NQA1NTUANTU1ADU1NQA1NTUAAAAA/wAAAP8AAACDwAAHAcAABwDAAAcAwAAGEMAABhjAAAYYwAAGGMAA
+        BjjAAAY4wAAGOMAAADjAAAA4wAAAeMAAB/DAAAfgwAAHwMAAB8DD/8eAx//HgMf/x4HH/8eBx//HA8f/
+        xgfH/8YPx//EH8P/xD/AAAR/wAAH/+AAD/8=
+</value>
+  </data>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>39</value>
+    <value>46</value>
   </metadata>
 </root>

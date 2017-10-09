@@ -184,6 +184,21 @@ namespace Task
         private int countGas;
         private int totalRevenues = 0;
 
+        private void OilAndCafe_Resize(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Minimized)
+                Hide();
+            notifyIcon.BalloonTipTitle = "Программа была спрятана";
+            notifyIcon.BalloonTipText = "Обратите внимание что программа была спрятана в трей и продолжит свою работу.";
+            notifyIcon.ShowBalloonTip(5000);
+        }
+
+        private void NotifyIcon_DoubleClick(object sender, EventArgs e)
+        {
+            Show();
+            WindowState = FormWindowState.Normal;
+        }
+
         private void ButtonCalc_Click(object sender, EventArgs e)
         {
             //Oil

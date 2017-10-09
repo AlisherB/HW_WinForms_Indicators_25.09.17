@@ -36,3 +36,6 @@ C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForm
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Indicators_25.09.17\HW_WinForms_Indicators\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Indicators_25.09.17\HW_WinForms_Indicators\Task\obj\Debug\Task.exe
 C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Indicators_25.09.17\HW_WinForms_Indicators\Task\obj\Debug\Task.pdb
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Indicators_25.09.17\HW_WinForms_Indicators\Task\bin\Debug\gas.ico
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Indicators_25.09.17\HW_WinForms_Indicators\Task\bin\Debug\smile.jpg
+C:\Users\Alisher\OneDrive\Documents\Академия Шаг\C#\GitHub\HW_WinForms_Indicators_25.09.17\HW_WinForms_Indicators\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
