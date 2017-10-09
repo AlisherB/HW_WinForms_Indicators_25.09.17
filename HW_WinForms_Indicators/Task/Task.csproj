@@ -79,6 +79,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="gas-pump-32.ico">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
     <Content Include="gas.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>

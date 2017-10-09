@@ -686,6 +686,7 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.groupBoxCafe);
             this.Controls.Add(this.groupBoxGasStation);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximumSize = new System.Drawing.Size(545, 500);
             this.MinimumSize = new System.Drawing.Size(545, 500);
             this.Name = "OilAndCafe";
